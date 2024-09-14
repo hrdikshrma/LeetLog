@@ -20,8 +20,9 @@ Here’s a quick look at the problems covered in this repository:
 
 
 ## 💻 Code Details
-- **ValidAnagram.py** : sorted() function will sort both the strings in same fashion and then we can compare both for equality.
-- **ContainsDuplicate.py** : set() function will contain only unique items of the list. If the length of the string doesn't match the length of the set, it contains duplicates.
+- **ValidAnagram.py**: sorted() function will sort both the strings in the same fashion and then we can compare both for equality.
+- **ContainsDuplicate.py**: set() function will contain unique list items. If the length of the string doesn't match the length of the set, it contains duplicates.
+- **TwoSum.py**: using hashmap we can reduce the time complexity of this problem 
 ## 🤝 Contributing
 Contributions are welcome! If you have a better solution or additional problems to add, feel free to fork the repo and submit a pull request. Please ensure your code follows the repository’s style guidelines and includes appropriate comments.
 
